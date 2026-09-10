@@ -1,0 +1,4 @@
+interface:
+  display_name: "AirPods Claude Cloud"
+  short_description: "Настраивает голосовые задачи Claude Code из AirPods"
+  default_prompt: "Use $airpods-claude-cloud to connect AirPods voice commands to Claude Code running in GitHub Actions."
